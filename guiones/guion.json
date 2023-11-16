@@ -1,0 +1,134 @@
+{   "audio":"audios/narracion.mp3",
+    "modelo":"modelos/bosque.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+               "tiempo":"00:00",
+               "duracion":0,
+                "camara":"c1",
+                "target":"t1"
+                
+           },
+           {
+               "tiempo":"00:11",
+               "duracion":2000,
+               "camara":"c2",
+               "target":"t2"
+               
+          },
+          {
+            "tiempo":"00:13",
+            "duracion":2000,
+            "camara":"c2",
+            "target":"t3"
+            
+       },
+       {
+        "tiempo":"00:14",
+        "duracion":2000,
+        "camara":"c2",
+        "target":"t4"
+        
+   },
+   {
+    "tiempo":"00:15",
+    "duracion":2000,
+    "camara":"c2",
+    "target":"t5"
+    
+},
+{
+    "tiempo":"00:20",
+    "duracion":2000,
+    "camara":"c2",
+    "target":"t6"
+    
+},
+          {
+               "tiempo":"00:22",
+               "duracion":2000,
+               "camara":"c3",
+               "target":"t7"
+               
+          },
+         
+       {
+        "tiempo":"00:25",
+        "duracion":2000,
+        "camara":"c4",
+        "target":"t8"
+   }
+   ,
+       {
+        "tiempo":"00:30",
+        "duracion":2000,
+        "camara":"c5",
+        "target":"t9"
+        
+   }
+   
+   ,
+       {
+        "tiempo":"00:37",
+        "duracion":2000,
+        "camara":"c6",
+        "target":"t10"
+        
+   }
+   ,
+   {
+    "tiempo":"00:40",
+    "duracion":2000,
+    "camara":"c7",
+    "target":"t11"
+    
+}
+,
+{
+ "tiempo":"00:49",
+ "duracion":2000,
+ "camara":"c8",
+ "target":"t12"
+ 
+},
+{
+    "tiempo":"01:04",
+    "duracion":2000,
+    "camara":"c9",
+    "target":"t13"
+    
+   },
+   {
+    "tiempo":"01:16",
+    "duracion":2000,
+    "camara":"c10",
+    "target":"t14"
+    
+   },
+   {
+    "tiempo":"01:27",
+    "duracion":4000,
+    "camara":"c11",
+    "target":"t15"
+    
+   }
+   ,
+   {
+    "tiempo":"01:40",
+    "duracion":2000,
+    "camara":"c11",
+    "target":"t16"
+    
+   }
+   ,
+   {
+    "tiempo":"01:50",
+    "duracion":2000,
+    "camara":"c12",
+    "target":"t17"
+    
+   }
+
+      ]
+}
